@@ -1,0 +1,27 @@
+.form{
+    display: flex;
+    width: 600px;
+    height: auto;
+    background-color: blanchedalmond;
+    font-family: monospace;
+    font-size: 20px;
+}
+form{
+    padding: 10px;
+}
+
+input{
+    margin: 10px;
+}
+
+input[type="submit"]{
+    
+    margin-left: 200px;
+}
+
+span{
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+}
+
+
